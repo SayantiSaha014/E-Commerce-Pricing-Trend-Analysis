@@ -5,16 +5,16 @@ This project focuses on monitoring pricing trends across major e-commerce platfo
 Two datasets used & contains product information collected from three major e-commerce platforms: Amazon, Bestbuy and Walmart.
 Each product entry includes the following details:
 
-Merchant (Amazon, Bestbuy, Walmart)
-Main_Category 
-Sub_Category
-Product Name
-Link(sourceURL)
-Ratings
-No_of_Ratings
-Actual_Price
-Discount_Price
-Brand
+-- Merchant (Amazon, Bestbuy, Walmart)
+-- Main_Category 
+-- Sub_Category
+-- Product Name
+-- Link(sourceURL)
+-- Ratings
+-- No_of_Ratings
+-- Actual_Price
+-- Discount_Price
+-- Brand
 
 ## Exploratory Data Analysis (EDA)
 A full EDA was conducted to understand the structure and patterns within the dataset.
