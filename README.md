@@ -1,4 +1,13 @@
-# E-Commerce-Pricing-Trend-Analysis
+<h1 align="center">  📊E-Commerce-Pricing-Trend-Analysis📈</h1>
+  <div align="center">
+  </div>
+
+<div align="center">
+  <img src="trend_analysis.jpeg" width='200'>
+</div>
+
+---
+
 This project focuses on monitoring pricing trends across major e-commerce platforms to analyze competitor pricing strategies, identify market trends, and evaluate promotional activities.
 
 ## 📂 About the Dataset
